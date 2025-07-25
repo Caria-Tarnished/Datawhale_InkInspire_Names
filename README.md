@@ -19,7 +19,19 @@ models: #关联模型
 #   entry_file: app.py
 license: MIT License
 ---
-#### Clone with HTTP
+
+# ✒️ InkInspire_Names 项目
+
+欢迎来到 InkInspire_Names 项目！这是一个... (在这里可以简单写一句项目简介)。
+
+## 快速体验
+
+*   **在线 Demo 与效果展示**：[点击这里访问 ModelScope Studio](https://www.modelscope.cn/studios/yvcheng/InkInspire_Names)
+*   **模型详细介绍文档**：[点击查看语雀文档](https://www.yuque.com/wangyuesishui/gng2zs/xxglu761b234rvus)
+
+## 克隆项目到本地
+
+如果你想在本地运行或研究代码，请使用以下命令克隆本仓库：
+
 ```bash
- git clone https://www.modelscope.cn/studios/yvcheng/InkInspire_Names.git
-```
+git clone https://www.modelscope.cn/studios/yvcheng/InkInspire_Names.git
